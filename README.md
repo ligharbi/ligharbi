@@ -35,8 +35,9 @@ Some of the main projects I’ve completed so far:
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![42 Network](https://img.shields.io/badge/-42%20Profile-000000?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/your42username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+lina-gharbia-8618781ba)
+[![42 Network](https://img.shields.io/badge/-42%20Profile-000000?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ligharbi)
 
 ---
 
